@@ -275,5 +275,7 @@ This project is licensed under the MIT License.
 *Software Engineer & Financial Technology Developer*
 
 📧 Email: pbofah1@gmail.com 
-🔗 GitHub: [Github]https://github.com/Patrick4350 
+
+🔗 GitHub: [Github](https://github.com/Patrick4350)
+
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrick-owusu-bofah-7b2a761ab/)
