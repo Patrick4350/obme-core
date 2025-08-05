@@ -1,0 +1,238 @@
+# Compiled Object files
+*.o
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+main.exe
+obme-core.exe
+obme-core
+main
+
+# Build directories
+build/
+Build/
+BUILD/
+cmake-build-*/
+.cmake/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Make files
+Makefile.bak
+
+# IDE files
+.vscode/
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.ncb
+*.aps
+*.suo
+*.sdf
+*.opensdf
+*.vcproj
+*.vcxproj.filters
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Log files
+*.log
+logs/
+*.txt
+data/logs.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Windows
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Test output files
+test_output/
+test_results/
+*.test
+
+# Coverage reports
+*.gcov
+*.gcda
+*.gcno
+lcov.info
+coverage/
+
+# Profiling data
+*.prof
+gmon.out
+
+# Core dumps
+core
+core.*
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# Data files (may contain sensitive information)
+data/stress_test_*.json
+data/test_*.json
+
+# Keep sample data but ignore generated test data
+!data/sample_orders.json
+
+# Documentation build
+docs/_build/
+docs/html/
+docs/latex/
+
+# Static analysis
+.clang_complete
+.ycm_extra_conf.py
+
+# Ctags
+tags
+.tags
+.tags_sorted_by_file
+
+# Cscope
+cscope.files
+cscope.out
+cscope.in.out
+cscope.po.out
+
+# GTAGS
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+
+# Local environment
+.env
+.env.local
+.env.*.local
+
+# Node.js (if any web components added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Rust (if any Rust components added later)
+target/
+Cargo.lock
+
+# Go (if any Go components added later)
+vendor/
+
+# Java (if any Java components added later)
+*.class
+*.jar
+*.war
+*.ear
+
+# Custom project files
+stress_test_output/
+benchmark_results/
+performance_data/
