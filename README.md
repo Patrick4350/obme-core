@@ -245,7 +245,7 @@ python scripts/stress_test.py
 
 ## License
 
-See `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ## Dependencies
 
@@ -267,3 +267,13 @@ See `LICENSE` file for details.
 - [ ] Market data distribution
 - [ ] Risk management integration
 - [ ] Performance profiling tools
+
+
+## 🏗️ Built By
+
+**Patrick Owusu Bofah**  
+*Software Engineer & Financial Technology Developer*
+
+📧 Email: pbofah1@gmail.com 
+🔗 GitHub: [Github]https://github.com/Patrick4350 
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrick-owusu-bofah-7b2a761ab/)
